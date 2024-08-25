@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <a href="https://lightyourjourney.github.io/archlinux-tutorial/">
+  <a href="https://arch.yanjinli.fun/">
     <img alt="logo" src="./docs/public/images/og.png"/>
   </a>
 </p>
@@ -80,7 +80,7 @@ Welcome to the Peking University PC Squad Help Documentation (hereinafter referr
 
 ## Online Reading
 
-This project is hosted on GitHub Pages and can be read online at [https://lightyourjourney.github.io/archlinux-tutorial/](https://lightyourjourney.github.io/archlinux-tutorial/).
+This project is hosted on GitHub Pages and can be read online at [https://arch.yanjinli.fun/](https://arch.yanjinli.fun/).
 
 ## Local Deployment
 
