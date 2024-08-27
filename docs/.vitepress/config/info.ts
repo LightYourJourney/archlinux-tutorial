@@ -10,15 +10,15 @@ const keywords = [
 ];
 
 // Base Info
-export const TITLE = "Arch Linux 不完全指南";
-export const DESCRIPTION = "入 Arch 邪教";
+export const TITLE = "Arch 不完全指南";
+export const DESCRIPTION = "成为 Arch 邪教徒";
 export const LANG = "zh-CN";
-export const DOMAIN = "lightyourjourney.github.io/archlinux-tutorial";
+export const DOMAIN = "arch.yanjinli.fun";
 export const URL = `https://${DOMAIN}`;
 export const REPO = "https://github.com/LightYourJourney/archlinux-tutorial";
-export const LOGO = "/images/logo.png";
+export const LOGO = "/images/arch.svg";
 export const KEYWORDS = keywords.join(",");
-export const META_TITLE = `${TITLE} —— 你的电脑知识手册`;
+export const META_TITLE = `${TITLE} —— Arch It`;
 
 // Algolia Search
 export const API_KEY = "";

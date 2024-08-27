@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <a href="https://arch.yanjinli.fun/">
-    <img alt="logo" src="./docs/public/images/og.png"/>
+    <img alt="logo" src="./docs/public/images/archlinux.svg"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@ yarn docs:dev
 
 ## 文档动态
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/b3cd889b026f7093a8ab0ab5d37cae04499a0a8b.svg)
 
 ## 参与贡献
 

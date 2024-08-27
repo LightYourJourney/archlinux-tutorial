@@ -21,7 +21,7 @@ const themeConfig: DefaultTheme.Config = {
   logo,
   nav,
   sidebar,
-  siteTitle: "Arch Linux 不完全指南",
+  siteTitle: "Arch 不完全指南",
   socialLinks: [
     { icon: "github", link: REPO }
   ]

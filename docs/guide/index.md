@@ -1,4 +1,4 @@
-# 北京大学电脑小队帮助文档
+# Arch Linux 不完全指南
 
 ::: warning
 
@@ -32,7 +32,7 @@ yarn docs:dev
 
 ## 文档动态
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/b3cd889b026f7093a8ab0ab5d37cae04499a0a8b.svg)
 
 ## 参与贡献
 
@@ -40,7 +40,7 @@ yarn docs:dev
 
 ## 版权说明
 
-文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](./LICENSE)。
+文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](https://github.com/LightYourJourney/archlinux-tutorial/blob/main/LICENSE)。
 
 ## 贡献者
 

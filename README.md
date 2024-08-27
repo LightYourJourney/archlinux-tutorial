@@ -1,11 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <a href="https://arch.yanjinli.fun/">
-    <img alt="logo" src="./docs/public/images/og.png"/>
+    <img alt="logo" src="./docs/public/images/archlinux.svg"/>
   </a>
 </p>
 
-<h1 align="center"><strong>Help Documentation of PKU PC Squad</strong></h1>
+<h1 align="center"><strong>Arch Linux Tutorial</strong></h1>
 
 <div align="center">
 
@@ -76,8 +76,6 @@ English | [简体中文](./README.zh-CN.md)
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
-Welcome to the Peking University PC Squad Help Documentation (hereinafter referred to as "this book"). This book is collaboratively written by several members of the PC Squad of the Youth Association of the School of EECS at Peking University. It is designed to support and extend the volunteer activities of the Computer Squad within the university. This book is aimed at computer novices, starting from the most basic structure of computers, and gradually leading readers to master the most essential practical computer knowledge in a simple and easy-to-understand manner. This book aims to be a practical computer knowledge manual and repair guide. If you study it diligently, you will surely gain something. Start your journey now!
-
 ## Online Reading
 
 This project is hosted on GitHub Pages and can be read online at [https://arch.yanjinli.fun/](https://arch.yanjinli.fun/).
@@ -104,7 +102,7 @@ yarn docs:dev
 
 ## Repo Status
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/b3cd889b026f7093a8ab0ab5d37cae04499a0a8b.svg)
 
 ## Contributing
 
@@ -112,7 +110,7 @@ Contributions to the content of the guide and the website source code are welcom
 
 ## License
 
-The documentation is availably free under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. For details, see [LICENSE](./LICENSE).
+The documentation is availably free under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. For details, see [LICENSE](https://github.com/LightYourJourney/archlinux-tutorial/blob/main/LICENSE).
 
 ## Contributors
 
